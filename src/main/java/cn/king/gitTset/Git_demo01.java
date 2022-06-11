@@ -7,6 +7,6 @@ public class Git_demo01 {
         System.out.println("hello Git3");
         System.out.println("master git");
         System.out.println("hot-fix git");
-
+        System.out.println("push test");
     }
 }
